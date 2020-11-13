@@ -154,7 +154,7 @@ Output <- (
 #   Use the following command to save the output as a CSV 
 
 
-write.csv(output, file = "./data/SpamSessionsOutput.csv")
+write.csv(Output, file = "./data/SpamSessionsOutput.csv")
 
 
 
