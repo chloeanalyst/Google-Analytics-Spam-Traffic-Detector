@@ -23,6 +23,8 @@ library(tidyverse)
 library(googleAnalyticsR)
 ```
 
+**Shout out to Mark Edmondson for GoogleAnalyticsR! - https://github.com/MarkEdmondson1234/googleAnalyticsR**
+
 **Step 2 — Connect to Google Analytics.**
 
 Establish a connection to the Google API using the following command.
